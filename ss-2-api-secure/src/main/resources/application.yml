@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ss-2-api-secure
+server:
+  servlet:
+    context-path: /ss-api-secure
